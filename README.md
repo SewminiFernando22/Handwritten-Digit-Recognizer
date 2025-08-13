@@ -52,9 +52,6 @@ Deployment:
       Setup Instructions
 
 
-Clone the repository:
-      git clone https://github.com/your-username/Handwritten-Digit-Recognizer.git
-
 
 Create a virtual environment:
       python -m venv env
